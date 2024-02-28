@@ -8,7 +8,7 @@ We have found [free3d](https://free3d.com/3d-models/airplane) and
 After this, the example model is loaded in Gazebo by accessing **Model Editor** option. 
 It allows different file formats such as **.dae**, **.mtl**, etc.
 
-![example model external repository](img_blog/gazebo/model_airplane_external.png)
+![example model external repository](img_blog/gazebo/model_airplane_external_2.png)
 
 ![example model internal repository gazebo](img_blog/gazebo/model_airplane_internal.png)
 
