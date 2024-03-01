@@ -8,10 +8,12 @@ We have found [free3d](https://free3d.com/3d-models/airplane) and
 After this, the example model is loaded in Gazebo by accessing **Model Editor** option. 
 It allows different file formats such as **.dae**, **.mtl**, etc.
 
-![example model external repository](img_blog/gazebo/model_airplane_external_2.png)
+The first image is a model loaded from the external page, 
+while the second one has been loaded from the Gazebo repository.
+
+![example model external repository](img_blog/gazebo/model_airplane_external_2.png "Leyenda de la imagen")
 
 ![example model internal repository gazebo](img_blog/gazebo/model_airplane_internal.png)
-
 
 ## Week 1 :  Install initial sofware
 For the development of the project it is necessary:
